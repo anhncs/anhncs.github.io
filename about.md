@@ -8,7 +8,7 @@ I'm just a dreamer
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I'm a senior software engineer at VNG (vng.com.vn)
 
 ### Contact me
 
